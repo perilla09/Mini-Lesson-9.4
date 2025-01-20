@@ -23,4 +23,4 @@ Include the installation instructions here.
 ## Contact Information
 [BillGates] (https://www.linkedin.com/in/williamhgates/detail/recent-activity/posts/)
 
-![Github Logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png "Github logo - markdown")
+![Github Logo](https://github.fluidicon.png "Github logo - markdown")
