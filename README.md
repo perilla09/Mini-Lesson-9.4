@@ -1,5 +1,5 @@
 # Header - README Template
->## Table of Contents Example
+## Table of Contents Example
 - [Header - README Template](#header---readme-template)
   - [About the Project](#about-the-project)
   - [Tools](#tools)
